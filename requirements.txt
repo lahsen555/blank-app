@@ -4,7 +4,6 @@ torchvision
 matplotlib
 Pillow
 numpy
-opencv-python
 requests
 torchinfo
 torchviz
