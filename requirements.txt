@@ -9,3 +9,4 @@ requests
 torchinfo
 graphviz
 torchviz
+opencv-python-headless
