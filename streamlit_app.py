@@ -10,6 +10,8 @@ import cv2
 import requests
 from torchinfo import summary
 from torchviz import make_dot
+import os
+os.environ["PATH"] += os.pathsep + 'C:/GraphViz/bin'
 
 # Set page config
 st.set_page_config(
