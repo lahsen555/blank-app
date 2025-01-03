@@ -7,6 +7,6 @@ numpy
 opencv-python
 requests
 torchinfo
-graphviz
 torchviz
+graphviz
 opencv-python-headless
