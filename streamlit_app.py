@@ -4,7 +4,6 @@ import torch.nn.functional as F
 import torchvision.models as models
 import torchvision.transforms as transforms
 from torchvision.utils import make_grid
-import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import cv2
